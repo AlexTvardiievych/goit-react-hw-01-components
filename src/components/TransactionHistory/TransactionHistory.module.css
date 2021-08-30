@@ -1,0 +1,19 @@
+.transactionHistory {
+  width: 400px;
+  margin: 40px;
+}
+
+.title {
+  height: 50px;
+  background-color: rgb(89, 226, 250);
+  color: white;
+}
+
+.label {
+  height: 50px;
+  text-align: center;
+}
+
+.label:nth-child(2n) {
+  background-color: rgb(145, 144, 144);
+}
